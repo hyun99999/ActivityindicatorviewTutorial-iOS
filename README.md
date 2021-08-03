@@ -1,5 +1,7 @@
 # ActivityindicatorviewTutorial-iOS
-오픈 라이브러리 NVActivityIndicatorView 를 활용한 튜토리얼
+🌀 오픈 라이브러리 NVActivityIndicatorView 를 활용한 튜토리얼
+
+**출처 : [https://github.com/ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)**
 
 ### 실습
 <img src = "https://user-images.githubusercontent.com/69136340/128038003-579f59b3-1bbd-49d0-8df6-7a47e937db8a.gif" width ="250">
@@ -12,7 +14,7 @@
 ### 코드
 - initializer
 
-<img src ="https://user-images.githubusercontent.com/69136340/128038661-55a5a1c8-5138-4909-992c-2b4b5b4fa0da.png" width = "600">
+<img src ="https://user-images.githubusercontent.com/69136340/128038661-55a5a1c8-5138-4909-992c-2b4b5b4fa0da.png" width = "500">
 
 - DispatchQueue 를 사용해보았다.
 ```swift

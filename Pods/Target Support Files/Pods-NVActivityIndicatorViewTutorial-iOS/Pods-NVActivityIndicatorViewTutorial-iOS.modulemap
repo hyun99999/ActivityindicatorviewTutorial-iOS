@@ -1,0 +1,6 @@
+framework module Pods_NVActivityIndicatorViewTutorial_iOS {
+  umbrella header "Pods-NVActivityIndicatorViewTutorial-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
